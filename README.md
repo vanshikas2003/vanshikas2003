@@ -12,7 +12,6 @@
 - Cybersecurity, Blockchain Enthusiast
 - Pattern Recognition & Economic Threat Analysis Researcher
 - Currently exploring real-time systems and smart contracts
-- Location: Faridabad, Haryana, India
 - And I love formula 1!
 
 ---
@@ -95,10 +94,7 @@ Developed immutable legal document storage with access verification smart contra
 
 ---
 
-## 🔗 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vanshikasinghq)
-[![Email](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:singhvanshikaq@gmail.com)
+## Connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vanshikasinghq) or [![Email](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:singhvanshikaq@gmail.com)
 
 ---
 
