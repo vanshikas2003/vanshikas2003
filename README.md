@@ -94,8 +94,7 @@ Developed immutable legal document storage with access verification smart contra
 
 ---
 
-## Connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vanshikasinghq) or [![Email](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:singhvanshikaq@gmail.com)
-
+Connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vanshikasinghq) or email at singvanshikaq@gmail.com
 ---
 
 <p align="center"><i>“Break rules, and invent.”</i></p>
