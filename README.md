@@ -92,8 +92,14 @@ Developed immutable legal document storage with access verification smart contra
 - Goldman Sachs Software Engineering Virtual Internship – Forage
 - Smart India Hackathon 2024 – Secured **All-India Rank 5**
 
----
-- Connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vanshikasinghq) or email me at singvanshikaq@gmail.com
+## Contact 📫
+
+Feel free to reach out to me via email at **singhvanshikaq@gmail.com**
+
+## Find Me on LinkedIn 🌐
+
+Let’s connect on [**LinkedIn**](https://www.linkedin.com/in/vanshikasinghq/) and explore opportunities, collaborations, or just say hi!
+
 ---
 
 <p align="center"><i>“Break rules, and invent.”</i></p>
