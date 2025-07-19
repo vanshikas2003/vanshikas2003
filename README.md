@@ -57,8 +57,8 @@ DSA, Operating Systems, DBMS, InfoSec, CN, OOPs, Finance & Accounts
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshikasinghq&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vanshikasinghq&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshikas2003&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vanshikasf2003&theme=tokyonight" height="180" />
 </p>
 
 ---
