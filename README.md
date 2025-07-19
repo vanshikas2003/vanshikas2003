@@ -1,3 +1,5 @@
+<img src="./vanshika-banner.png" alt="Vanshika Singh Banner" width="100%" />
+
 <h1 align="center">Hey, I'm Vanshika Singh! </h1>
 
 <p align="center">
