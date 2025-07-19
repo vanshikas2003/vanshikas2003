@@ -94,8 +94,7 @@ Developed immutable legal document storage with access verification smart contra
 - Smart India Hackathon 2024 – Secured **All-India Rank 5**
 
 ---
-
-Connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vanshikasinghq) or email at singvanshikaq@gmail.com
+- Connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vanshikasinghq) or email me at singvanshikaq@gmail.com
 ---
 
 <p align="center"><i>“Break rules, and invent.”</i></p>
