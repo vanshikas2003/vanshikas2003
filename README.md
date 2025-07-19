@@ -6,17 +6,17 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-- 🎓 Computer Science undergrad at Jaypee University of Information Technology (Batch of 2026)
-- 🛡️ Cybersecurity, Blockchain Enthusiast
-- 🧠 Pattern Recognition & Economic Threat Analysis Researcher
-- 🌐 Currently exploring real-time systems and smart contracts
-- 📌 Location: Faridabad, Haryana, India
+- Computer Science undergrad at Jaypee University of Information Technology (Batch of 2026)
+- Cybersecurity, Blockchain Enthusiast
+- Pattern Recognition & Economic Threat Analysis Researcher
+- Currently exploring real-time systems and smart contracts
+- Location: Faridabad, Haryana, India
 
 ---
 
-## 🚀 Projects I'm Proud Of
+## Projects I'm Proud Of
 
 ### 🔄 Cryptocurrency Matching Engine – Investment Logic Simulation
 **Tech:** Python, FastAPI, WebSockets, Pydantic  
@@ -32,7 +32,7 @@ Developed immutable legal document storage with access verification smart contra
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 **Languages:**  
 C/C++, Python, Java, JavaScript, SQL, HTML/CSS  
@@ -49,9 +49,6 @@ Git, GitHub, VS Code, IntelliJ, Figma, JIRA, MySQL Workbench, MATLAB
 **Coursework Highlights:**  
 DSA, Operating Systems, DBMS, InfoSec, CN, OOPs, Finance & Accounts
 
-**Soft Skills:**  
-🧩 Cognitive Flexibility | 🕵️ Reverse Engineering | 🎯 Due Diligence | 🧠 Pattern Recognition
-
 ---
 
 ## 📈 GitHub Stats
@@ -63,11 +60,11 @@ DSA, Operating Systems, DBMS, InfoSec, CN, OOPs, Finance & Accounts
 
 ---
 
-## 🏆 Achievements & Certifications
+## Achievements & Certifications
 
-- 🧠 Finalist (Top 3%) – Google Girl Hackathon 2024 (5500+ participants)
-- 💼 Goldman Sachs Software Engineering Virtual Internship – Forage
-- 🥇 Smart India Hackathon 2024 – Secured **All-India Rank 5**
+- Finalist (Top 3%) – Google Girl Hackathon 2024 (5500+ participants)
+- Goldman Sachs Software Engineering Virtual Internship – Forage
+- Smart India Hackathon 2024 – Secured **All-India Rank 5**
 
 ---
 
@@ -78,4 +75,4 @@ DSA, Operating Systems, DBMS, InfoSec, CN, OOPs, Finance & Accounts
 
 ---
 
-<p align="center"><i>“Keep learning, keep building, keep breaking things (responsibly).”</i> 🚀</p>
+<p align="center"><i>“Break rules, and invent.”</i></p>
