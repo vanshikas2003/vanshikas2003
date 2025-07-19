@@ -14,23 +14,7 @@
 - Cybersecurity, Blockchain Enthusiast
 - Pattern Recognition & Economic Threat Analysis Researcher
 - Currently exploring real-time systems and smart contracts
-- And I love formula 1!
-
----
-
-## Projects I'm Proud Of
-
-### Cryptocurrency Matching Engine – Investment Logic Simulation
-**Tech:** Python, FastAPI, WebSockets, Pydantic  
-Simulated a high-frequency order book matching engine supporting Market, Limit, IOC, FOK orders. Processed 1000+ orders/sec with sub-10ms latency. Modeled volatility and stress testing under financial shocks.
-
-### Dark Web Threat Intelligence for Economic Risk Analysis
-**Tech:** Python, Scapy, Tor, BeautifulSoup  
-Scraped and scanned 200+ onion domains to detect early financial cybercrime indicators (e.g., ransomware ops, crypto fraud). Quantified macroeconomic implications of threat patterns.
-
-### Decentralised E-Vault using Blockchain (SIH Rank 5)
-**Tech:** Solidity, Web3.js, Node.js  
-Developed immutable legal document storage with access verification smart contracts. Aligned with regulatory and adoption feasibility studies.
+- And I love formula 1 🏎️ !
 
 ---
 
@@ -77,6 +61,21 @@ Developed immutable legal document storage with access verification smart contra
 </table>
 
 ---
+## Projects I'm Proud Of
+
+### Cryptocurrency Matching Engine – Investment Logic Simulation
+**Tech:** Python, FastAPI, WebSockets, Pydantic  
+Simulated a high-frequency order book matching engine supporting Market, Limit, IOC, FOK orders. Processed 1000+ orders/sec with sub-10ms latency. Modeled volatility and stress testing under financial shocks.
+
+### Dark Web Threat Intelligence for Economic Risk Analysis
+**Tech:** Python, Scapy, Tor, BeautifulSoup  
+Scraped and scanned 200+ onion domains to detect early financial cybercrime indicators (e.g., ransomware ops, crypto fraud). Quantified macroeconomic implications of threat patterns.
+
+### Decentralised E-Vault using Blockchain (SIH Rank 5)
+**Tech:** Solidity, Web3.js, Node.js  
+Developed immutable legal document storage with access verification smart contracts. Aligned with regulatory and adoption feasibility studies.
+
+---
 
 ## 📈 GitHub Stats
 
@@ -94,7 +93,7 @@ Developed immutable legal document storage with access verification smart contra
 
 ## Contact 📫
 
-Feel free to reach out to me via email at **singhvanshikaq@gmail.com**
+Feel free to reach out to me via email at **singhvanshikaq@gmail.com**.
 
 ## Find Me on LinkedIn 🌐
 
