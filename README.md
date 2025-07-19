@@ -43,7 +43,6 @@ Developed immutable legal document storage with access verification smart contra
       <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML5"/>
       <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/>
       <img src="https://img.icons8.com/ios-filled/48/000000/mysql-logo.png" title="MySQL"/>
-      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-postgresql-an-open-source-object-relational-database-system-logo-shadow-tal-revivo.png" title="PostgreSQL"/>
     </td>
   </tr>
   <tr>
@@ -58,7 +57,6 @@ Developed immutable legal document storage with access verification smart contra
   <tr>
     <th>Platforms & Technologies</th>
     <td>
-      <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/000000/external-cryptography-cryptocurrency-flaticons-lineal-color-flat-icons.png" title="Cryptography"/>
       <img src="https://img.icons8.com/ios-filled/48/000000/blockchain.png" title="Blockchain"/>
       <img src="https://img.icons8.com/color/48/000000/source-code.png" title="Full Stack Development"/>
       <img src="https://img.icons8.com/color/48/graphql.png" title="GraphQL"/>
@@ -72,9 +70,6 @@ Developed immutable legal document storage with access verification smart contra
       <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code"/>
       <img src="https://img.icons8.com/color/48/intellij-idea.png" title="IntelliJ IDEA"/>
       <img src="https://img.icons8.com/color/48/figma--v1.png" title="Figma"/>
-      <img src="https://img.icons8.com/external-flat-icons-inmotus-design/48/000000/external-matlab-mathematics-flat-icons-inmotus-design.png" title="MATLAB"/>
-      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/jira.png" title="JIRA"/>
-      <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/external-sql-database-soft-fill-soft-fill-juicy-fish.png" title="MySQL Workbench"/>
     </td>
   </tr>
 </table>
