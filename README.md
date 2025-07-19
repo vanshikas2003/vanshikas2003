@@ -34,43 +34,47 @@ Developed immutable legal document storage with access verification smart contra
 
 <table>
   <tr>
-    <th>Programming Languages</th>
+    <th>Languages</th>
     <td>
-      <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-      <img src="https://img.icons8.com/color/48/000000/python.png"/>
-      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-      <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+      <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C/C++"/>
+      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java"/>
+      <img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/>
+      <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript"/>
+      <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML5"/>
+      <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/>
+      <img src="https://img.icons8.com/ios-filled/48/000000/mysql-logo.png" title="MySQL"/>
+      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-postgresql-an-open-source-object-relational-database-system-logo-shadow-tal-revivo.png" title="PostgreSQL"/>
     </td>
   </tr>
   <tr>
-    <th>Frontend Development</th>
+    <th>Frameworks & Libraries</th>
     <td>
-      <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-      <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-      <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-      <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+      <img src="https://img.icons8.com/officel/48/react.png" title="ReactJS"/>
+      <img src="https://img.icons8.com/color/48/nodejs.png" title="NodeJS"/>
+      <img src="https://img.icons8.com/fluency/48/javascript.png" title="Express.js"/>
+      <img src="https://img.icons8.com/color/48/spring-logo.png" title="Spring Boot"/>
     </td>
   </tr>
   <tr>
-    <th>Design & UI</th>
+    <th>Platforms & Technologies</th>
     <td>
-      <img src="https://img.icons8.com/color/48/000000/figma.png"/>
-      <img src="https://img.icons8.com/fluency/48/webflow.png"/>
-      <img src="https://img.icons8.com/ios-filled/48/000000/notion.png"/>
+      <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/000000/external-cryptography-cryptocurrency-flaticons-lineal-color-flat-icons.png" title="Cryptography"/>
+      <img src="https://img.icons8.com/ios-filled/48/000000/blockchain.png" title="Blockchain"/>
+      <img src="https://img.icons8.com/color/48/000000/source-code.png" title="Full Stack Development"/>
+      <img src="https://img.icons8.com/color/48/graphql.png" title="GraphQL"/>
     </td>
   </tr>
   <tr>
-    <th>Database Technologies</th>
+    <th>Developer Tools</th>
     <td>
-      <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/>
-      <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-    </td>
-  </tr>
-  <tr>
-    <th>Version Control</th>
-    <td>
-      <img src="https://img.icons8.com/color/48/000000/git.png"/>
-      <img src="https://img.icons8.com/ios-glyphs/48/github.png"/>
+      <img src="https://img.icons8.com/color/48/git.png" title="Git"/>
+      <img src="https://img.icons8.com/ios-glyphs/48/github.png" title="GitHub"/>
+      <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code"/>
+      <img src="https://img.icons8.com/color/48/intellij-idea.png" title="IntelliJ IDEA"/>
+      <img src="https://img.icons8.com/color/48/figma--v1.png" title="Figma"/>
+      <img src="https://img.icons8.com/external-flat-icons-inmotus-design/48/000000/external-matlab-mathematics-flat-icons-inmotus-design.png" title="MATLAB"/>
+      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/jira.png" title="JIRA"/>
+      <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/external-sql-database-soft-fill-soft-fill-juicy-fish.png" title="MySQL Workbench"/>
     </td>
   </tr>
 </table>
