@@ -6,48 +6,75 @@
 
 ---
 
-## About Me
+## A little about me
 
 - Computer Science undergrad at Jaypee University of Information Technology (Batch of 2026)
 - Cybersecurity, Blockchain Enthusiast
 - Pattern Recognition & Economic Threat Analysis Researcher
 - Currently exploring real-time systems and smart contracts
 - Location: Faridabad, Haryana, India
+- And I love formula 1!
 
 ---
 
 ## Projects I'm Proud Of
 
-### 🔄 Cryptocurrency Matching Engine – Investment Logic Simulation
+### Cryptocurrency Matching Engine – Investment Logic Simulation
 **Tech:** Python, FastAPI, WebSockets, Pydantic  
 Simulated a high-frequency order book matching engine supporting Market, Limit, IOC, FOK orders. Processed 1000+ orders/sec with sub-10ms latency. Modeled volatility and stress testing under financial shocks.
 
-### 🕵️‍♀️ Dark Web Threat Intelligence for Economic Risk Analysis
+### Dark Web Threat Intelligence for Economic Risk Analysis
 **Tech:** Python, Scapy, Tor, BeautifulSoup  
 Scraped and scanned 200+ onion domains to detect early financial cybercrime indicators (e.g., ransomware ops, crypto fraud). Quantified macroeconomic implications of threat patterns.
 
-### 🔐 Decentralised E-Vault using Blockchain (SIH Rank 5)
+### Decentralised E-Vault using Blockchain (SIH Rank 5)
 **Tech:** Solidity, Web3.js, Node.js  
 Developed immutable legal document storage with access verification smart contracts. Aligned with regulatory and adoption feasibility studies.
 
 ---
 
-## Tech Stack & Tools
-
-**Languages:**  
-C/C++, Python, Java, JavaScript, SQL, HTML/CSS  
-
-**Frameworks & Libraries:**  
-React.js, Node.js, Express.js, Spring Boot  
-
-**Platforms & Domains:**  
-Blockchain, Cryptography, Full Stack Development, GraphQL  
-
-**Developer Tools:**  
-Git, GitHub, VS Code, IntelliJ, Figma, JIRA, MySQL Workbench, MATLAB  
-
-**Coursework Highlights:**  
-DSA, Operating Systems, DBMS, InfoSec, CN, OOPs, Finance & Accounts
+<table>
+  <tr>
+    <th>Programming Languages</th>
+    <td>
+      <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+      <img src="https://img.icons8.com/color/48/000000/python.png"/>
+      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+      <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+    </td>
+  </tr>
+  <tr>
+    <th>Frontend Development</th>
+    <td>
+      <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+      <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+      <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+      <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+    </td>
+  </tr>
+  <tr>
+    <th>Design & UI</th>
+    <td>
+      <img src="https://img.icons8.com/color/48/000000/figma.png"/>
+      <img src="https://img.icons8.com/fluency/48/webflow.png"/>
+      <img src="https://img.icons8.com/ios-filled/48/000000/notion.png"/>
+    </td>
+  </tr>
+  <tr>
+    <th>Database Technologies</th>
+    <td>
+      <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/>
+      <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+    </td>
+  </tr>
+  <tr>
+    <th>Version Control</th>
+    <td>
+      <img src="https://img.icons8.com/color/48/000000/git.png"/>
+      <img src="https://img.icons8.com/ios-glyphs/48/github.png"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -60,7 +87,7 @@ DSA, Operating Systems, DBMS, InfoSec, CN, OOPs, Finance & Accounts
 
 ---
 
-## Achievements & Certifications
+## Some of my Achievements & Certifications
 
 - Finalist (Top 3%) – Google Girl Hackathon 2024 (5500+ participants)
 - Goldman Sachs Software Engineering Virtual Internship – Forage
